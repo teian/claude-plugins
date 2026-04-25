@@ -47,8 +47,10 @@ Add the marketplace, then install the plugin:
 /plugin marketplace add teian/claude-plugins
 /plugin install git-commands@teian-claude-code-plugins
 ```
-
-Replace `teian/claude-plugins` with the GitHub path to this repository.
+```bash
+claude plugin marketplace add teian/claude-plugins
+claude plugin install git-commands@teian-claude-code-plugins
+```
 
 ## Adding a new plugin
 
