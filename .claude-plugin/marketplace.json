@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "teian-claude-code-plugins",
+  "version": "1.0.0",
+  "description": "Custom Claude Code plugins",
+  "plugins": [
+    {
+      "name": "git-commands",
+      "description": "Development kit for working with Git commands",
+      "source": "./plugins/git-commands",
+      "category": "development"
+    }
+  ]
+}

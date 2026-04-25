@@ -1,0 +1,5 @@
+{
+  "name": "git-commands",
+  "description": "Opinionated slash commands for a clean Git workflow. Each command guides Claude through inspection, confirmation, and execution.",
+  "version": "1.0.0"
+}
