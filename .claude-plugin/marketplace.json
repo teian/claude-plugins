@@ -3,6 +3,10 @@
   "name": "teian-claude-code-plugins",
   "version": "1.0.0",
   "description": "Custom Claude Code plugins",
+  "owner": {
+    "name": "Frank Gehann",
+    "url": "https://github.com/teian"
+  },
   "plugins": [
     {
       "name": "git-commands",
